@@ -2271,7 +2271,7 @@ GameObject:
   - component: {fileID: 1077795674}
   - component: {fileID: 1077795673}
   m_Layer: 5
-  m_Name: Canvas
+  m_Name: MainCanvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5374,7 +5374,7 @@ MonoBehaviour:
   m_Content: {fileID: 1916574131}
   m_Horizontal: 1
   m_Vertical: 1
-  m_MovementType: 1
+  m_MovementType: 2
   m_Elasticity: 0.1
   m_Inertia: 1
   m_DecelerationRate: 0.135
